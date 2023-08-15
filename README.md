@@ -1,3 +1,3 @@
 # Customer-Admin-Portal
 
-Customer Admin Portal is a platform where administrators of any organisation have access. Administrators can perform tasks such as Add Customer, Delete Customer and fetch all the customer details available in the database. For frontend I used HTML, CSS. For backend I used Java, Servelets, MySQL, JSP.
+The Customer Admin Portal is a comprehensive platform designed for administrators across various organizations, granting them access to a range of essential functionalities. These functionalities include the addition and deletion of customers, as well as retrieval of all customer details stored within the database. The portal's frontend is built using HTML and CSS, while the backend leverages Java, Servlets, MySQL, and JSP technologies for seamless operation and efficient management.
